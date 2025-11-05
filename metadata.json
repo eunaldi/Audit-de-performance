@@ -1,0 +1,5 @@
+{
+  "name": "Devsource Page Speed Audit",
+  "description": "An AI-powered tool to audit website performance, identify hosting providers, and generate commercial reports with improvement suggestions for potential clients. Export reports to PDF or Excel.",
+  "requestFramePermissions": []
+}
